@@ -11,7 +11,7 @@ ___
 
 ### Contatos 📲
 <div>
-<a href="https://www.linkedin.com/in/ricardo-rodrigues-santana/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/ricardo-r-santana/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.instagram.com/ricardo_rs28/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "ricardo2803br@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Ricardo27139033" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 

@@ -10,12 +10,18 @@
 ___
 
 ### Contatos 📲
-<div>
-<a href="https://www.linkedin.com/in/ricardo-r-santana/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://www.instagram.com/ricardo_rs28/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "ricardo2803br@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/Ricardo27139033" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 
+<div align="center">
+ <a href="https://www.linkedin.com/in/ricardo-r-santana/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  ></a>
+  <a href="https://twitter.com/Ricardo27139033" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  ></a>
+ <a href="https://discord.gg/5SScBTY5" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+ <a href="https://www.instagram.com/ricardo_rs28/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  ></a>
+ <a href="https://api.whatsapp.com/send/?phone=5511947973045&text&type=phone_number&app_absent=0"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  ></a>
+<a href="mailto:ricardo28.dev@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+</a>
 
+
+###
 ___
 
   <h2>Skills</h2>
